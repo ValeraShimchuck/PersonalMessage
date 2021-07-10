@@ -1,0 +1,8 @@
+messages:
+  offline: 'Player is not online'
+  yourself: 'You can`t receive a message from yourself'
+  ysignore: 'You can`t ignore yourself'
+  onignore: 'You add this player to ignore list'
+  unignore: 'You unignore player'
+  ignore: 'This player ignore you'
+  ignoreys: 'You ignore this player'

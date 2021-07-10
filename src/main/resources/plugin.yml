@@ -1,0 +1,11 @@
+name: PersonalMessage
+main: com.plugins.Main
+version: 1.0
+api-version: 1.13
+commands:
+  pm:
+    description: Personal message to player
+    usage: /pm <Player> <mes>
+  ignore:
+    description: Ignore player
+    usage: /ignore <Player>
