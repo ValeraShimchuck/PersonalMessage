@@ -17,7 +17,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Set;
 
-
+//Hello github
 public class Main extends JavaPlugin implements CommandExecutor {
     //@Override
     private static final String url = "jdbc:mysql://localhost:3306/test";
